@@ -8,7 +8,7 @@ function criandoAlgunsArrays(executar){
     let arrPlanetas = new Array("Terra","Marte","Saturno")
 
     //literal
-    let arrTenologias = new Array("JS","PHP","JAVA","C#","PYTHON","MYSQL")
+    let arrTenologias = ["JS","PHP","JAVA","C#","PYTHON","MYSQL"]
 
     //associativo
     let arrCarros = {
